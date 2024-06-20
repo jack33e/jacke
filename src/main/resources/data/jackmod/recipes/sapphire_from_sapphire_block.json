@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "jackmod:sapphire_block"
+
+    }
+  ],
+  "result": {
+    "item": "jackmod:sapphire",
+    "count": 9
+  }
+}

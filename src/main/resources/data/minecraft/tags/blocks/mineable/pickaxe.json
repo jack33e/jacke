@@ -1,0 +1,11 @@
+{
+  "values": [
+    "jackmod:sapphire_block",
+    "jackmod:raw_sapphire_block",
+    "jackmod:sapphire_ore",
+    "jackmod:deepslate_sapphire_ore",
+    "jackmod:end_stone_sapphire_ore",
+    "jackmod:nether_sapphire_ore",
+    "jackmod:sound_block"
+  ]
+}

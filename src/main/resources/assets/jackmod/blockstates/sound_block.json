@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "jackmod:block/sound_block"
+    }
+  }
+}

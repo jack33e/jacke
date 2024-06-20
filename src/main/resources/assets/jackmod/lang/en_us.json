@@ -1,0 +1,33 @@
+{
+  "item.jackmod.sapphire": "Sapphire",
+  "item.jackmod.raw_sapphire": "Raw Sapphire",
+
+   "block.jackmod.sapphire_block": "Block of Sapphire",
+   "block.jackmod.raw_sapphire_block": "Block of Raw Sapphire",
+
+  "item.jackmod.metal_detector": "Metal Detector",
+  "item.jackmod.strawberry": "Strawberry",
+  "item.jackmod.pine_cone": "Pine Cone",
+
+  "block.jackmod.sapphire_ore": "Sapphire Ore",
+  "block.jackmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.jackmod.end_stone_sapphire_ore": "Endstone Sapphire Ore",
+  "block.jackmod.nether_sapphire_ore": "Nether Sapphire Ore",
+
+  "block.jackmod.sound_block": "Sound Block",
+  "block.jackmod.sapphire_stairs": "Sapphire Stairs",
+  "block.jackmod.sapphire_slab": "Sapphire Slab",
+  "block.jackmod.sapphire_button": "Sapphire Button",
+  "block.jackmod.sapphire_pressure_plate": "Sapphire Pressure Plate",
+  "block.jackmod.sapphire_fence": "Sapphire Fence",
+  "block.jackmod.sapphire_fence_gate": "Sapphire Fence Gate",
+  "block.jackmod.sapphire_wall": "Sapphire Wall",
+  "block.jackmod.sapphire_door": "Sapphire Door",
+  "block.jackmod.sapphire_trapdoor": "Sapphire Trapdoor",
+  "tooltip.jackmod.metal_detector.tooltip": "Finds valuables underground",
+
+  "creativetab.adventure_tab": "Sapphire Adventure Tab"
+}
+
+
+

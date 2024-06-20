@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "jackmod:sapphire"
+    }
+  },
+  "result": {
+    "count": 8,
+    "item": "jackmod:sapphire_stairs"
+
+  }
+}

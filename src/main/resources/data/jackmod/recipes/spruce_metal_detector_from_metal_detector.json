@@ -1,0 +1,23 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:spruce_planks"
+
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "  #",
+    " ##",
+    "XX "
+  ],
+  "result": {
+    "item": "jackmod:metal_detector"
+  },
+  "show_notification": true
+}
