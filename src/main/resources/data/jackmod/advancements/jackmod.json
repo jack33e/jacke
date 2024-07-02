@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "jackmod:sapphire"
+    },
+    "title": "getting richer",
+    "description": "The Power lies in the sapphire!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "jackmod:textures/block/sapphire_block.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "jackmod:sapphire"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

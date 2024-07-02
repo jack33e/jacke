@@ -1,0 +1,23 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+
+    },
+    "X": {
+      "item": "jackmod:sapphire"
+    }
+  },
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "jackmod:sapphire_pickaxe"
+  },
+  "show_notification": true
+}

@@ -1,5 +1,20 @@
 {
   "values": [
-    "jackmod:raw_sapphire_block"
+    "jackmod:sapphire_block",
+    "jackmod:raw_sapphire_block",
+    "jackmod:sapphire_ore",
+    "jackmod:deepslate_sapphire_ore",
+    "jackmod:nether_sapphire_ore",
+    "jackmod:end_stone_sapphire_ore",
+    "jackmod:sound_block",
+    "jackmod:sapphire_wall",
+    "jackmod:sapphire_trapdoor",
+    "jackmod:sapphire_slab",
+    "jackmod:sapphire_door",
+    "jackmod:sapphire_fence",
+    "jackmod:sapphire_button",
+    "jackmod:sapphire_stairs",
+    "jackmod:sapphire_pressure_plate",
+    "jackmod:sapphire_fence_gate"
   ]
 }

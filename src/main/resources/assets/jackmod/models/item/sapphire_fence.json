@@ -1,3 +1,6 @@
 {
-  "parent": "jackmod:block/sapphire_fence_gate"
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": "jackmod:block/sapphire_block"
+  }
 }

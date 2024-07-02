@@ -7,7 +7,26 @@
 
   "item.jackmod.metal_detector": "Metal Detector",
   "item.jackmod.strawberry": "Strawberry",
+  "item.jackmod.tomato": "Tomato",
   "item.jackmod.pine_cone": "Pine Cone",
+  "item.jackmod.sapphire_staff": "Sapphire Staff",
+
+  "item.jackmod.sapphire_sword": "Sapphire Sword",
+  "item.jackmod.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.jackmod.sapphire_axe": "Sapphire Axe",
+  "item.jackmod.sapphire_shovel": "Sapphire Shovel",
+  "item.jackmod.sapphire_hoe": "Sapphire Hoe",
+
+  "item.jackmod.sapphire_helmet": "Sapphire Helmet",
+  "item.jackmod.sapphire_chestplate": "Sapphire Chestplate",
+  "item.jackmod.sapphire_leggings": "Sapphire Leggings",
+  "item.jackmod.sapphire_boots": "Sapphire Boots",
+  "item.jackmod.strawberry_seeds": "Strawberry Seeds",
+  "item.jackmod.tomato_seeds": "Tomato Seeds",
+
+
+
+
 
   "block.jackmod.sapphire_ore": "Sapphire Ore",
   "block.jackmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
@@ -24,6 +43,7 @@
   "block.jackmod.sapphire_wall": "Sapphire Wall",
   "block.jackmod.sapphire_door": "Sapphire Door",
   "block.jackmod.sapphire_trapdoor": "Sapphire Trapdoor",
+
   "tooltip.jackmod.metal_detector.tooltip": "Finds valuables underground",
 
   "creativetab.adventure_tab": "Sapphire Adventure Tab"

@@ -1,3 +1,6 @@
 {
-  "parent": "jackmod:block/sapphire_slab"
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "jackmod:block/sapphire_block"
+  }
 }

@@ -1,23 +1,23 @@
 
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
+  "category": "equipment",
   "key": {
     "#": {
-      "item": "minecraft:sapphire"
+      "item": "minecraft:stick"
 
     },
     "X": {
-      "item": "minecraft:stick"
+      "item": "jackmod:sapphire"
     }
   },
   "pattern": [
-    "#X#",
-    "#X#",
+    "X#X",
+    "X#X",
     "   "
   ],
   "result": {
-    "count": 6,
+    "count": 4,
     "item": "jackmod:sapphire_fence"
   },
   "show_notification": true
